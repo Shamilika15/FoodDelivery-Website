@@ -26,9 +26,9 @@ This is a **Full Stack Food Ordering Web Application** built with **React JS**, 
     - `cd frontend && npm install`
 3. Set up environment variables for Stripe API keys and MongoDB.
 4. Run both frontend and backend locally:
-    - `npm start` (in the frontend directory)
-    - `npm run dev` (in the backend directory)
-5. Open `http://localhost:3000` in your browser to view the app.
+    - `npm run server` (in the backend directory)
+    - `npm run dev` (in the frontkend directory)
+5. Open `http://localhost:5173` and `http://localhost:5174` in your browser to view the app.
 
 ## Key Skills Gained:
 - **React Development:** Building interactive UIs and handling user interactions efficiently.
